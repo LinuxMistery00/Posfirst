@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS", // Certifique-se de que o módulo seja CommonJS
+      "target": "ES6",
+      // ...
+    }
+  }
+  
