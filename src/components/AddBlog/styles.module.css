@@ -1,0 +1,47 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vh;
+    margin-top: 10vh;
+}
+
+input {
+    width: 30vh;
+    height: 5vh;
+}
+
+textarea {
+    width: 50vh;
+    height: 50vh;
+}
+
+input, textarea {
+    border: 0;
+    border-radius: 3vh;
+    outline: none;
+    font-size: 3vh;
+}
+
+.AddBlogBTN {
+    border: 0;
+    border-radius: 3vh;
+    width: 30vh;
+    height: 3vh;
+    font-size: 2vh;
+}
+
+.Blogs {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.BlogTitle {
+    font-size: 5vh;
+    text-align: center;
+    color: #111213;
+}

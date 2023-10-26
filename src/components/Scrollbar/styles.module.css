@@ -1,0 +1,11 @@
+.Scrollbar {
+    width: auto;
+    height: 10vh;
+    background-color: #0096ff;
+    color: white;
+}
+
+.Title {
+    text-align: center;
+    font-size: 6vh;
+}
